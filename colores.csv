@@ -1,0 +1,110 @@
+Actividad,Color
+Perfora,#C00000
+Arma BHA,#FFC000
+Desarma BHA,#ED7D31
+Mete x lingada,#00B050
+Mete T x T (TP/LN/TR/Aparejo),#A9D08E
+Mete x lingada c/rot y bbeo,#E2EFDA
+Mete c/rot y bbeo T x T,#548235
+Levanta x Ling,#9BC2E6
+Levanta c/ rot y bbeo,#DDEBF7
+Levanta T x T c/ rot y bbeo,#305496
+Levanta T x T,#8EA9DB
+Circula,#0070C0
+Observa pozo,#993300
+Desplaza fluido,#3399FF
+Junta Operativa,#806000
+Problemas de equipo (fallas),#808000
+Elimina BOPS,#FF6600
+Conexión fondo a fondo,#BF8F00
+Densifica,#666699
+Cambio de guardia,#FFE699
+Orden y limpieza,#66CCFF
+Corte y desliz,#FF9966
+Recupera núcleo,#33CCCC
+Recibe materiales del barco a PAE,#0066FF
+Instala cuña colgadora / instala bola colgadora,#6666FF
+Convierte cople flotador,#00CC99
+Gafas elevador Instala-elimina,#6600FF
+Verifica parámetros / Restablece parámetros,#FF99FF
+Escarea TR,#99FF99
+Prueba de integridad TR,#FFCC99
+Afina T x C,#800000
+Pesca / trabaja sarta / resistencias-arrastres,#FF3300
+Perfora deslizando,#FF5050
+Instala empacador,#FFCC66
+Instala mandril,#FF9999
+Prueba FIT / LOT,#FF6699
+Control de pozo,#CC3399
+Prueba de goteo,#336600
+Prueba ensamble de sellos,#99FF66
+Cambio de rams,#FF99CC
+Amplia intervalo,#FFCCFF
+"Ajustes (TR, aparejo, liner, empacador, pistolas, etc)",#FF66FF
+Sienta bola colgadora / recarga peso de TR en fondo,#FF00FF
+Suelda cabezal,#CCFFFF
+Prueba ampliador,#00FF00
+Valvula de Tormenta Instala / Elimina,#00FF99
+Cabeza de Cementar Instala / Elimina,#66FFFF
+Activa Ampliador,#33CCFF
+Mide y Calibra herramientas/ reacomoda tuberia,#6699FF
+Realiza Side Track,#6600CC
+Rebaja cemento,#3A3838
+Cementa,#A6A6A6
+Fraguado de cemento,#161616
+Desmantela sonda Registros eléctricos,#00FFCC
+Arma sonda registros eléctricos,#009999
+Registros eléctricos/ ecómetro / toma gyro,#006666
+Arma sonda de Gyro,#CC66FF
+Desmantela Gyro,#CC99FF
+Instala/ elimina equipo CRT,#9999FF
+Corte preliminar,#99CC00
+Corte definitivo y biselado,#666633
+Eliminar tubos ancla/ sellos/ campana de viajes,#66FF33
+Instala Cabezal,#66FF99
+Instala carretes de control (espaciadores),#CCCC00
+Prueba CSC,#CCFF66
+Instala BOPs,#C65911
+Prueba de BOPs,#F8CBAD
+Diverter y over shot,#FCE4D6
+Instala campana,#833C0C
+Instala buje de desgaste,#660066
+Prueba herramienta direccional,#CC0099
+Elimina buje de desgaste/ charola ecológica,#CC00CC
+Preconexión,#00B050
+Conexión cuña a cuña,#00B0F0
+Post Conexión,#D9D9D9
+Repaso,#996633
+Survey,#FFFF66
+Comandos,#FF6600
+Reducidas,#9BC2E6
+Orienta motor,#9900CC
+Cambia balero a MPD,#993366
+Bache,#1F4E78
+Otros,#806000
+EMS (materiales y serv),#FF9933
+MCC,#5B9BD5
+Activa colgador,#FF9900
+Preparativos para (la actividad),#FFFF99
+Ancla Empacador,#CC6600
+Instala colgador,#FF7C80
+Activa pistolas,#FF0066
+Descarga información herramienta,#003399
+"Instala/ elimina doble pin, combinaciones, etc.",#0099CC
+Baja lingada a suelo natural / Elimina tuberia estibada,#3333FF
+Jet sub / lavado de conductor,#008080
+Prueba cabezal,#0099FF
+Instala/ elimina unidad UAP / UPH,#9966FF
+Cambio de bombas,#9900FF
+Enfría soldadura,#CCECFF
+Mantenimiento a equipos,#33CC33
+Instala MAV,#333300
+Corte de núcleo,#FF3399
+Activa/ desactiva valvula PBL,#990099
+Desfoga presiones,#663300
+Instala/ desinstala TF,#996600
+Sin datos,#777777
+Paros de rotaria,#990000
+Estacionados,#D0CECE
+Prueba de perforabilidad,#FF66CC
+Realiza ventana,#3366FF
